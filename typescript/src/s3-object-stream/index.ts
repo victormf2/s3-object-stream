@@ -1,0 +1,1 @@
+export { S3ObjectInputStream } from "./input-stream"
